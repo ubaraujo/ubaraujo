@@ -23,28 +23,26 @@ ___
 
 🌱 **Aprendendo:**
 <p align="left">
-  <a href="www.linkedin.com/in/ugleiston">
     <img src="https://skillicons.dev/icons?i=py,fastapi,go,postgres,docker,aws" />
-  </a>
 </p>
 
 🛠️ **Ferramentas que uso:**
 <p align="left">
-  <a href="www.linkedin.com/in/ugleiston">
     <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,idea&theme=dark" />
-  </a>
 </p>
 
 ___
 
 <div>
 <a href="https://github.com/tomzeras">
-<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomzeras&layout=donut&bg_color=282A36&border_color=FFF&title_color=E94D5F&text_color=FFF"/>
+<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomzeras&layout=compact&bg_color=282A36&border_color=FFF&title_color=E94D5F&text_color=FFF"/>
 </div>
-  
+
 ___
   
 📫 **Onde me encontrar:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ugleiston)
-
+<div>
+  <a href="www.linkedin.com/in/ugleiston">
+      Linkedin
+  </a>
+</div>
