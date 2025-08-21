@@ -40,7 +40,6 @@ ___
 <div>
 <a href="https://github.com/tomzeras">
 <img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomzeras&layout=donut&bg_color=282A36&border_color=FFF&title_color=E94D5F&text_color=FFF"/>
-<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api?username=tomzeras&show_icons=true&rank_icon=github&theme=dracula"/>
 </div>
   
 ___
