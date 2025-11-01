@@ -16,14 +16,20 @@ Atualmente fazendo uma migração de carreira para back-end com linguagens moder
 
 📚 **Proficiência:** 
 - Mainframe
-- Cobol / CICS / DB2
+- Cobol / CICS
+- DB2
 - Natural
 - JCL / SORT
+
+📫 **Onde me encontrar:**
+<BR><BR>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ubaraujo/)
+
 ___
 
 🌱 **Aprendendo:**
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,go,postgres,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=java,go,docker,aws,postgres,py,fastapi" />
 </p>
 
 🛠️ **Ferramentas que uso:**
@@ -34,15 +40,6 @@ ___
 ___
 
 <div>
-<a href="https://github.com/tomzeras">
-<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomzeras&layout=compact&bg_color=282A36&border_color=FFF&title_color=E94D5F&text_color=FFF"/>
-</div>
-
-___
-  
-📫 **Onde me encontrar:**
-<div>
-  <a href="www.linkedin.com/in/ugleiston">
-      Linkedin
-  </a>
+<a href="https://github.com/ubaraujo">
+<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaraujo&layout=compact&bg_color=282A36&border_color=FFF&title_color=E94D5F&text_color=FFF"/>
 </div>
