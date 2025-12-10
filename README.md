@@ -36,10 +36,3 @@ ___
 <p align="left">
     <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,idea&theme=dark" />
 </p>
-
-___
-
-<div>
-<a href="https://github.com/ubaraujo">
-<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaraujo&layout=compact&bg_color=282A36&border_color=FFF&title_color=E94D5F&text_color=FFF"/>
-</div>
