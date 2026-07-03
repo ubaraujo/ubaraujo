@@ -2,8 +2,6 @@
 ___
 💻 **Analista de Sistemas Mainframe**
 
-Curioso por natureza, fã de heavy metal e RAP nacional.
-
 Sou desenvolvedor desde 2016 trabalhando principalmente com Cobol/Mainframe, criando sistemas em ambiente bancário/financeiro. 
 
 Atualmente fazendo uma migração de carreira para back-end com linguagens modernas.
