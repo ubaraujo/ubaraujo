@@ -1,4 +1,3 @@
-### Olá, tudo bem? Pode me chamar de Tom Araújo!👋
 ___
 💻 **Analista de Sistemas Mainframe**
 
