@@ -3,7 +3,7 @@ ___
 
 Sou desenvolvedor desde 2016 trabalhando principalmente com Cobol/Mainframe, criando sistemas em ambiente bancário/financeiro. 
 
-Atualmente fazendo uma migração de carreira para back-end com linguagens modernas.
+Atualmente fazendo uma migração de carreira para área de dados.
 
 
 🎓 **Formação:**
