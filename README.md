@@ -26,10 +26,10 @@ ___
 
 🌱 **Aprendendo:**
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,go,docker,aws,postgres,py,fastapi" />
+    <img src="https://skillicons.dev/icons?i=py,docker,airflow,spark,aws,postgres,fastapi,go" />
 </p>
 
 🛠️ **Ferramentas que uso:**
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,idea&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 </p>
