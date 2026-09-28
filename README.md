@@ -26,7 +26,7 @@ ___
 
 🌱 **Aprendendo:**
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=py,docker,airflow,spark,aws,postgres,fastapi,go" />
+    <img src="https://skillicons.dev/icons?i=py,docker,aws,postgres,fastapi,go" />
 </p>
 
 🛠️ **Ferramentas que uso:**
